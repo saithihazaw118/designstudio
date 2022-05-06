@@ -1,0 +1,15 @@
+
+/*/////////////////////media//////////////////////////////////////*/
+
+
+
+@media (min-width: 400px) and (max-width: 768px) {
+	body {
+		background-color: red;
+	}
+.doc {
+		display: none;
+		border: 1px solid green;
+	}
+	
+}
